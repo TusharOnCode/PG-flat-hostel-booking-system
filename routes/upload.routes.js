@@ -1,13 +1,4 @@
-// const express = require('express');
-
-// const router = express.Router();
-
-// router.get('/upload', (req, res) => {
-//     res.render('upload')
-//     });
-
-
-// module.exports = router; 
+ 
 
 const express = require('express');
 const multer = require('multer');
